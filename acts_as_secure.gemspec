@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = ActsAsSecure::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Justin Cunningham' , '2007 Revolution Health Group LLC.']
-  s.email       = ['justin@bulletprooftiger.com']
+  s.email       = ['justin@compucatedsolutions.com']
   s.homepage    = "http://rubygems.org/gems/jcnnghm-acts_as_secure"
   s.summary     = "ActsAsSecure adds an ability to store ActiveRecord model's fields encrypted in a DB."
   s.description = "When a model is marked with acts_as_secure, the :binary type fields are recognized as needed to be stored encrypted.

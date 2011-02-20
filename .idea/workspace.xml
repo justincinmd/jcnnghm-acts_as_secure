@@ -48,10 +48,19 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="README.rdoc" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.rdoc">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="146" column="24" selection-start="4364" selection-end="4364" vertical-scroll-proportion="0.85603386">
+                <state line="146" column="24" selection-start="4364" selection-end="4364" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="acts_as_secure.gemspec" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/acts_as_secure.gemspec">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="46" selection-start="370" selection-end="370" vertical-scroll-proportion="0.09597742">
                   <folding />
                 </state>
               </provider>
@@ -290,13 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="86" selection-end="86" vertical-scroll-proportion="0.035664335">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="32" selection-start="50" selection-end="50" vertical-scroll-proportion="0.011888112">
@@ -332,13 +334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/acts_as_secure.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.29992944">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/acts_as_secure_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="5" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.39590684">
@@ -346,9 +341,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="86" selection-end="86" vertical-scroll-proportion="0.035664335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="24" selection-start="4364" selection-end="4364" vertical-scroll-proportion="0.85603386">
+        <state line="146" column="24" selection-start="4364" selection-end="4364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acts_as_secure.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="46" selection-start="370" selection-end="370" vertical-scroll-proportion="0.09597742">
           <folding />
         </state>
       </provider>
